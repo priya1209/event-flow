@@ -1,0 +1,3 @@
+*.map
+/apps/api/node_modules
+/apps/api/dist
